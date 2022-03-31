@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mac13k5431
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning Python
+- 📫 Discord: Mac13k#0001
