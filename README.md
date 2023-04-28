@@ -1,3 +1,1 @@
-- 👥 He/Him
-- 💎 Beginner Python Developer
-- ⚽ Mini YouTuber
+
